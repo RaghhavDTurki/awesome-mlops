@@ -23,7 +23,7 @@
 <a name="core-mlops"></a>
 # MLOps Core
 
-- [] [Machine Learning Operations: You Design It, You Train It, You Run It!](https://ml-ops.org/)
+- [ ] [Machine Learning Operations: You Design It, You Train It, You Run It!](https://ml-ops.org/)
 1. [MLOps SIG Specification](https://github.com/tdcox/mlops-roadmap/blob/master/MLOpsRoadmap2020.md)
 1. [ML in Production](http://mlinproduction.com/)
 1. [Awesome production machine learning: State of MLOps Tools and Frameworks](https://github.com/EthicalML/awesome-production-machine-learning)
